@@ -1,0 +1,19 @@
+MVC (Model View Controller)
+
+Model : Manages data and business logic(defines the data structure)
+View : Handles layout and display(defines the UI)
+Controller : Routes commands to the model and view parts(Control logic)
+
+__repr__:
+returns the printable version of the object passed in it, used in classes
+
+, nullable = False
+
+CRUD
+Create, read, update, delete
+
+render_template returns 200, with an index.html file
+redirect returns 302header to the browser, with the URL for the index function
+
+
+ 
